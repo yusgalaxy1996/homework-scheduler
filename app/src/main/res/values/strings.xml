@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Homework Scheduler</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_task_name">Enter homework name</string>
+    <string name="enter_task_description">Enter description</string>
+    <string name="new_task_exit">Do you want to leave this page? All unsaved changes will be lost.</string>
+    <string name="back_button">Back</string>
+    <string name="submit_button">Submit</string>
+    <string name="enter_start_date">Enter start date</string>
+    <string name="enter_end_date">Enter end date</string>
+    <string name="add_task_label">Add Task</string>
+    <string name="submit_btn">SUBMIT</string>
+    <string name="insert_task_message_alert">Saving the homework task...</string>
+    <string name="data_insert_success">Data successfully inserted to the database!</string>
+    <string name="data_modify_success">Data successfully changed to the database!</string>
+    <string name="data_delete_success">Data successfully deleted from the database!</string>
+    <string name="empty_list_text">This list is empty</string>
+    <string name="modify_btn">MODIFY</string>
+    <string name="modify_task_label">Modify/Delete Task</string>
+    <string name="modify_button">Modify</string>
+    <string name="delete_button">Delete</string>
+    <string name="delete_task_msg">Are you sure to delete this task?</string>
+</resources>
